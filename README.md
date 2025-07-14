@@ -1,4 +1,4 @@
-# Frontend Mentor - Recipe Page
+# Frontend Mentor - Product Review Responsive Page
 
 Project based on the Frontend Mentor challenge:  
 [Product Review](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
